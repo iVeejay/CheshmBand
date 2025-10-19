@@ -31,3 +31,8 @@ Report bugs or suggest features here: [![Issues](https://img.shields.io/badge/Is
 برای گزارش مشکل یا پیشنهاد ویژگی، از این صفحه استفاده کنید: [![Issues](https://img.shields.io/badge/Issues-Report-red?style=for-the-badge)](https://github.com/iVeejay/Cheshyar/issues)
 
 ---
+
+## License | مجوز
+© 2025 Cheshyar. All rights reserved.  
+تمامی حقوق محفوظ برای چشیار.
+
