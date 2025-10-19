@@ -1,6 +1,6 @@
-# Cheshmyaar
+# Cheshyar
 
-**Cheshmyaar** is a lightweight Windows application that helps you take regular breaks and protect your eyes from strain during long computer sessions. Designed specifically for Iranian users, it reminds you to rest your eyes and blink every 30 minutes.  
+**Cheshyar** is a lightweight Windows application that helps you take regular breaks and protect your eyes from strain during long computer sessions. Designed specifically for Iranian users, it reminds you to rest your eyes and blink every 30 minutes.  
 
 ---
 
@@ -17,7 +17,7 @@
 
 1. Download the latest setup file from the [Releases](https://github.com/iVeejay/Cheshyar/releases) page.  
 2. Run the installer and follow the on-screen instructions.  
-3. Launch **Cheshmyaar** and let it run in the background.  
+3. Launch **Cheshyar** and let it run in the background.  
 
 ---
 
