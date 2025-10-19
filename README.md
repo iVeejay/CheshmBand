@@ -49,6 +49,7 @@
 
 
 
+
 # Cheshyar-EN
 
 **Cheshyar** is a lightweight Windows application that helps you take regular breaks and protect your eyes from strain during long computer sessions. Designed specifically for Iranian users, it reminds you to rest your eyes and blink every 30 minutes.  
