@@ -1,6 +1,6 @@
 # Cheshyar | چشیار 🌟👀
 
-![Eye Care Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmbG9zZW50aWZ3aDBuNTNpN3F2N3A1cW5iY2NraGZ0ZG9leWlhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5C0b1FIpKtd8h8YwMa/giphy.gif)
+![Eye Care Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ2a3N3MTNndTJrcXgxczV0NnF4aGlmNnhza2xxMjN0cTh3YXV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8vcamAc4vneDTNXwb/giphy.gif)
 
 **Cheshyar** is a lightweight Windows app that reminds you to rest your eyes and blink every 30 minutes.  
 **چشیار** اپلیکیشنی سبک برای ویندوز است که هر ۳۰ دقیقه یک بار به شما یادآوری می‌کند به چشم‌هایتان استراحت بدهید و از خستگی چشم جلوگیری کنید.
@@ -31,5 +31,3 @@ Report bugs or suggest features here: [![Issues](https://img.shields.io/badge/Is
 برای گزارش مشکل یا پیشنهاد ویژگی، از این صفحه استفاده کنید: [![Issues](https://img.shields.io/badge/Issues-Report-red?style=for-the-badge)](https://github.com/iVeejay/Cheshyar/issues)
 
 ---
-
-![Eye Care Footer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ2a3N3MTNndTJrcXgxczV0NnF4aGlmNnhza2xxMjN0cTh3YXV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8vcamAc4vneDTNXwb/giphy.gif)
